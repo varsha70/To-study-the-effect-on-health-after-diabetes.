@@ -10,7 +10,7 @@
  4. To study the effect of medicine on patients.
  5. To study the standard age of Diabetes occurrence.
 
-**Steps followed - **
+**Steps Followed**
   1. Primary Data Collection
   2. Data cleaning
   3. Data preprocessing
